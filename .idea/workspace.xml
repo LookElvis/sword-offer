@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67fa6b5-993f-4091-9920-17dc45e96f0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PublicClass/ListNode.java" afterPath="$PROJECT_DIR$/src/main/java/PublicClass/ListNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PublicClass/TreeNode.java" afterPath="$PROJECT_DIR$/src/main/java/PublicClass/TreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PublicClass/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/PublicClass/Utils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S11_20/S11.java" afterPath="$PROJECT_DIR$/src/main/java/S11_20/S11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S11_20/S12.java" afterPath="$PROJECT_DIR$/src/main/java/S11_20/S12.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S11_20/S13.java" afterPath="$PROJECT_DIR$/src/main/java/S11_20/S13.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S11_20/S14.java" afterPath="$PROJECT_DIR$/src/main/java/S11_20/S14.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S1.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S10.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S2.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S3.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S4.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S5.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S6.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S6.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S7.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S8.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S1_10/S9.java" afterPath="$PROJECT_DIR$/src/main/java/S1_10/S9.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sword-offer.iml" afterPath="$PROJECT_DIR$/sword-offer.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="S4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="S4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/S1_10/S4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="900">
@@ -43,6 +25,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/S1_10/S1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/main/java/S11_20/S13.java" />
         <option value="$PROJECT_DIR$/src/main/java/S1_10/S3.java" />
         <option value="$PROJECT_DIR$/src/main/java/S1_10/S4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/S1_10/S1.java" />
       </list>
     </option>
   </component>
@@ -99,7 +92,8 @@
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -246,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="last_opened_file_path" value="D:/Software/LearningTools/Git/install/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -775,12 +769,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576811777080</updated>
-      <workItem from="1576811780275" duration="668000" />
+      <workItem from="1576811780275" duration="849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="668000" />
+    <option name="totallyTimeSpent" value="849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3328" y="378" width="1942" height="1042" extended-state="0" />
@@ -948,14 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/S1_10/S1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/S11_20/S13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -989,6 +975,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/S1_10/S1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
