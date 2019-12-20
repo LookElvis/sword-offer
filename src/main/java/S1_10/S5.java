@@ -1,4 +1,4 @@
-package Algorithm.SwordForOffer.S1_10;
+package S1_10;
 
 import java.util.Stack;
 

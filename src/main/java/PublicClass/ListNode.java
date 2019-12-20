@@ -1,4 +1,4 @@
-package LeetCode.PublicClass;
+package PublicClass;
 
 /**
  * Created by liuxiang on 2018/9/20.

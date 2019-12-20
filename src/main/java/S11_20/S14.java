@@ -1,6 +1,7 @@
-package Algorithm.SwordForOffer.S11_20;
+package S11_20;
 
-import LeetCode.PublicClass.ListNode;
+
+import PublicClass.ListNode;
 
 /**
  * Created by Elvis on 2019/12/20.

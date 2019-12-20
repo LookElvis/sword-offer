@@ -1,4 +1,4 @@
-package LeetCode.PublicClass;
+package PublicClass;
 
 import java.util.ArrayDeque;
 import java.util.List;

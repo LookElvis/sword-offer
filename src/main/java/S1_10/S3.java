@@ -1,10 +1,9 @@
-package Algorithm.SwordForOffer.S1_10;
+package S1_10;
 
-import LeetCode.PublicClass.ListNode;
-import LeetCode.PublicClass.Utils;
+import PublicClass.ListNode;
+import PublicClass.Utils;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 /**

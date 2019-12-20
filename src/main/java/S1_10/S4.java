@@ -1,7 +1,8 @@
-package Algorithm.SwordForOffer.S1_10;
+package S1_10;
 
-import LeetCode.PublicClass.TreeNode;
-import LeetCode.PublicClass.Utils;
+
+import PublicClass.TreeNode;
+import PublicClass.Utils;
 
 import java.util.Arrays;
 
