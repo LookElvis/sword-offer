@@ -6,7 +6,7 @@ package S1_10;
  */
 public class S1 {
     public static void main(String[] args) {
-        
+
     }
     public boolean Find(int target, int [][] array) {
         if (array == null || array.length == 0) return false;
