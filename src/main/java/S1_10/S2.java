@@ -1,6 +1,7 @@
 package S1_10;
 
 /**
+ * 替换空格
  * Created by Elvis on 2019/12/13.
  */
 public class S2 {

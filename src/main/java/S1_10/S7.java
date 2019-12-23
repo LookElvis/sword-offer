@@ -1,6 +1,7 @@
 package S1_10;
 
 /**
+ * 斐波那契数列
  * Created by Elvis on 2019/12/18.
  */
 public class S7 {

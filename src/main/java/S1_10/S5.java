@@ -3,6 +3,7 @@ package S1_10;
 import java.util.Stack;
 
 /**
+ * 用两个栈实现队列
  * Created by Elvis on 2019/12/17.
  */
 public class S5 {

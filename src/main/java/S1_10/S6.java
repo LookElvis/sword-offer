@@ -1,6 +1,7 @@
 package S1_10;
 
 /**
+ * 旋转数组的最小数字
  * Created by Elvis on 2019/12/17.
  */
 public class S6 {

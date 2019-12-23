@@ -1,6 +1,7 @@
 package S11_20;
 
 /**
+ * 数值的整数次方
  * Created by Elvis on 2019/12/20.
  */
 public class S12 {

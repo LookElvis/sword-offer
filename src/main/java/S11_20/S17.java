@@ -2,11 +2,9 @@ package S11_20;
 
 import PublicClass.TreeNode;
 
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
 
 /**
+ * 树的子结构
  * Created by Elvis on 2019/12/21.
  */
 public class S17 {

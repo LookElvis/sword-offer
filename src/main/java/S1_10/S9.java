@@ -1,6 +1,7 @@
 package S1_10;
 
 /**
+ * 变态跳台阶
  * Created by Elvis on 2019/12/19.
  */
 public class S9 {

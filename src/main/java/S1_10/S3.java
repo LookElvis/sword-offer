@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 从尾到头打印链表
  * Created by Elvis on 2019/12/16.
  */
 public class S3 {

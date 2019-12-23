@@ -4,6 +4,7 @@ import PublicClass.ListNode;
 import PublicClass.Utils;
 
 /**
+ * 合并两个排序的链表
  * Created by Elvis on 2019/12/21.
  */
 public class S16 {

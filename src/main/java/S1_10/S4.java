@@ -7,6 +7,7 @@ import PublicClass.Utils;
 import java.util.Arrays;
 
 /**
+ * 重建二叉树
  * Created by Elvis on 2019/12/16.
  */
 public class S4 {

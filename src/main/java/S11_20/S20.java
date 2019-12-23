@@ -3,6 +3,7 @@ package S11_20;
 import java.util.Stack;
 
 /**
+ * 	包含min函数的栈
  * Created by Elvis on 2019/12/22.
  */
 public class S20 {
