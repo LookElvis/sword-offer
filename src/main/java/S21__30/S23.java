@@ -1,6 +1,7 @@
 package S21__30;
 
 /**
+ * 二叉搜索树的后序遍历序列
  * Created by Elvis on 2019/12/23.
  */
 public class S23 {

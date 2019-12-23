@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Queue;
 
 /**
+ * 从上往下打印二叉树
  * Created by Elvis on 2019/12/23.
  */
 public class S22 {
