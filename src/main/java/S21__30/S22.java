@@ -23,7 +23,6 @@ public class S22 {
         n2.left = n3;
 //        n2.right = n4;
         Utils.printTree(root);
-
         Utils.printArrayList(PrintFromTopToBottom(root));
     }
 
