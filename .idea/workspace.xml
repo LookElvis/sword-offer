@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67fa6b5-993f-4091-9920-17dc45e96f0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S21__30/S22.java" afterPath="$PROJECT_DIR$/src/main/java/S21__30/S22.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S21__30/S24.java" afterPath="$PROJECT_DIR$/src/main/java/S21__30/S24.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/S21__30/S25.java" afterPath="$PROJECT_DIR$/src/main/java/S21__30/S25.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,14 +16,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="S24.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S24.java">
+      <file leaf-file-name="S25.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="-30">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#841#861#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/main/java/S11_20/S20.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S21.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S23.java" />
-        <option value="$PROJECT_DIR$/src/main/java/S21__30/S25.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S26.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S27.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S28.java" />
@@ -84,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S30.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S22.java" />
         <option value="$PROJECT_DIR$/src/main/java/S21__30/S24.java" />
+        <option value="$PROJECT_DIR$/src/main/java/S21__30/S25.java" />
       </list>
     </option>
   </component>
@@ -265,27 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.S24">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PublicClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="PublicClass.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sword-offer" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.S25">
     <configuration default="false" name="S21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -354,6 +332,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S21__30.S24" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sword-offer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="S25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S21__30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S21__30.S25" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -811,19 +809,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.S21" />
-      <item index="2" class="java.lang.String" itemvalue="Application.S22" />
-      <item index="3" class="java.lang.String" itemvalue="Application.S23" />
-      <item index="4" class="java.lang.String" itemvalue="Application.S24" />
+      <item index="0" class="java.lang.String" itemvalue="Application.S21" />
+      <item index="1" class="java.lang.String" itemvalue="Application.S22" />
+      <item index="2" class="java.lang.String" itemvalue="Application.S23" />
+      <item index="3" class="java.lang.String" itemvalue="Application.S24" />
+      <item index="4" class="java.lang.String" itemvalue="Application.S25" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.S24" />
-        <item index="1" class="java.lang.String" itemvalue="Application.S23" />
-        <item index="2" class="java.lang.String" itemvalue="Application.S22" />
-        <item index="3" class="java.lang.String" itemvalue="Application.S21" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.S25" />
+        <item index="1" class="java.lang.String" itemvalue="Application.S24" />
+        <item index="2" class="java.lang.String" itemvalue="Application.S23" />
+        <item index="3" class="java.lang.String" itemvalue="Application.S22" />
+        <item index="4" class="java.lang.String" itemvalue="Application.S21" />
       </list>
     </recent_temporary>
   </component>
@@ -851,12 +849,12 @@
       <workItem from="1576986084606" duration="5555000" />
       <workItem from="1577064414714" duration="7753000" />
       <workItem from="1577092124061" duration="74000" />
-      <workItem from="1577150784448" duration="7106000" />
+      <workItem from="1577150784448" duration="10132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30170000" />
+    <option name="totallyTimeSpent" value="33196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -872,7 +870,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1242,14 +1240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S26.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1308,11 +1298,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
+        <state relative-caret-position="870">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#841#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/S21__30/S25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
           </folding>
         </state>
       </provider>
