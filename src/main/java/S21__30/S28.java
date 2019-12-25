@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
+ * 数组中出现次数超过一半的数字
  * Created by Elvis on 2019/12/24.
  */
 public class S28 {
