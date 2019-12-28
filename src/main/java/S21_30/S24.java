@@ -1,10 +1,9 @@
-package S21__30;
+package S21_30;
 
 import PublicClass.TreeNode;
 import PublicClass.Utils;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 /**
  * 二叉树中和为某一值的路径

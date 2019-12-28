@@ -1,4 +1,4 @@
-package S21__30;
+package S21_30;
 
 import PublicClass.Utils;
 
