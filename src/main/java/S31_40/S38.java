@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * 
+ * 二叉树的深度
  * Created by Elvis on 2019/12/28.
  */
 public class S38 {
