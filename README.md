@@ -3,7 +3,7 @@
 
 ### 详解目录
 题号  |  题目名称  |  题号  |  题目名称
--------- | -------- | -------- | --------
+:--------: | :--------: | :--------: | :--------: |
 1  |  [二维数组中的查找](https://blog.csdn.net/qq_34842671/article/details/103732228/#s1)  |   2  |  [替换空格](https://blog.csdn.net/qq_34842671/article/details/103732228/#s2)
 3  |  [从尾到头打印链表](https://blog.csdn.net/qq_34842671/article/details/103732228/#s3)  |  4  | [ 重建二叉树](https://blog.csdn.net/qq_34842671/article/details/103732228/#s4)
 5  |  [用两个栈实现队列](https://blog.csdn.net/qq_34842671/article/details/103732228/#s5)  |  6  |  [旋转数组的最小数字](https://blog.csdn.net/qq_34842671/article/details/103732228/#s6)
