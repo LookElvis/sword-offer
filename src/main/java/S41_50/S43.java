@@ -8,7 +8,7 @@ public class S43 {
     public static void main(String[] args) {
         System.out.println(LeftRotateString("abcXYZdef", 9));
     }
-    
+
     public static String LeftRotateString(String str,int n) {
         if (str == null || str.length() == 0) return str;
         int len = n % str.length();
