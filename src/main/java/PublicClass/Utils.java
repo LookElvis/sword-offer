@@ -8,6 +8,25 @@ import java.util.Queue;
  * Created by liuxiang on 2018/10/11.
  */
 public class Utils {
+    public static ListNode createList1() {
+        ListNode head = new ListNode(1);
+        ListNode n1 = new ListNode(2);
+        ListNode n2 = new ListNode(3);
+        ListNode n3 = new ListNode(4);
+        ListNode n4 = new ListNode(5);
+        ListNode n5 = new ListNode(6);
+        ListNode n6 = new ListNode(7);
+        ListNode n7 = new ListNode(8);
+        head.next = n1;
+        n1.next = n2;
+        n2.next = n3;
+        n3.next = n4;
+        n4.next = n5;
+        n5.next = n6;
+        n6.next = n7;
+        return head;
+    }
+
     public static TreeNode createTree1() {
         TreeNode root = new TreeNode(10);
         TreeNode n1 = new TreeNode(5);
