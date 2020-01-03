@@ -22,18 +22,17 @@ public class S57 {
 
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
         if (pNode == null) return null;
-        TreeLinkNode t = pNode;
-        if (t.right != null) {
-            t = t.right;
-            while (t.left != null) {
-                t = t.left;
+        if (pNode.right != null) {
+            pNode = pNode.right;
+            while (pNode.left != null) {
+                pNode = pNode.left;
             }
-            return t;
+            return pNode;
         } else {
-            while (t.next != null && t.next.right == t) {
-                t = t.next;
+            while (pNode.next != null && pNode.next.right == pNode) {
+                pNode = pNode.next;
             }
-            return t.next;
+            return pNode.next;
         }
     }
 }
