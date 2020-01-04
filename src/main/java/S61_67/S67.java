@@ -1,6 +1,7 @@
 package S61_67;
 
 /**
+ * 剪绳子
  * Created by Elvis on 2020/1/4.
  */
 public class S67 {
