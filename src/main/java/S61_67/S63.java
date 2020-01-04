@@ -1,9 +1,9 @@
 package S61_67;
 
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
+ * 数据流中的中位数
  * Created by Elvis on 2020/1/4.
  */
 public class S63 {
