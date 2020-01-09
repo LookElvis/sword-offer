@@ -14,6 +14,11 @@
 15  |  [反转链表](https://blog.csdn.net/qq_34842671/article/details/103733427/#s15)  |  16  |  [合并两个排序的链表](https://blog.csdn.net/qq_34842671/article/details/103733427/#s16)
 17  |  [树的子结构](https://blog.csdn.net/qq_34842671/article/details/103733427/#s17)  |  18  |  [二叉树的镜像](https://blog.csdn.net/qq_34842671/article/details/103733427/#s18)
 19  |  [顺时针打印矩阵](https://blog.csdn.net/qq_34842671/article/details/103733427/#s19)  |  20  |  [包含min函数的栈](https://blog.csdn.net/qq_34842671/article/details/103733427/#s20)
+21  |  [栈的压入、弹出序列](https://blog.csdn.net/qq_34842671/article/details/103744123/#s21)  |  22  |  [从上往下打印二叉树](https://blog.csdn.net/qq_34842671/article/details/103744123/#s22) 
+23  |  [二叉搜索树的后序遍历序列](https://blog.csdn.net/qq_34842671/article/details/103744123/#s23)  |  24  |  [二叉树中和为某一值的路径](https://blog.csdn.net/qq_34842671/article/details/103744123/#s24) 
+25  |  [复杂链表的复制](https://blog.csdn.net/qq_34842671/article/details/103744123/#s25)  |  26  |  [二叉搜索树与双向链表](https://blog.csdn.net/qq_34842671/article/details/103744123/#s26) 
+27  |  [字符串的排列](https://blog.csdn.net/qq_34842671/article/details/103744123/#s27)  |  28  |  [数组中出现次数超过一半的数字](https://blog.csdn.net/qq_34842671/article/details/103744123/#s28) 
+29  |  [最小的K个数](https://blog.csdn.net/qq_34842671/article/details/103744123/#s29)  |  30  |  [连续子数组的最大和](https://blog.csdn.net/qq_34842671/article/details/103744123/#s30) 
 
 未完待续···
 
@@ -21,6 +26,8 @@
 [剑指offer——Java刷题总结【1-10】](https://blog.csdn.net/qq_34842671/article/details/103732228)
 
 [剑指offer——Java刷题总结【11-20】](https://blog.csdn.net/qq_34842671/article/details/103733427)
+
+[剑指offer——Java刷题总结【21-30】](https://blog.csdn.net/qq_34842671/article/details/103744123)
 
 ### Note
  - 算法详解汇总：[剑指offer题解汇总](https://blog.csdn.net/qq_34842671/article/details/103732870) 
