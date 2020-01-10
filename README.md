@@ -19,6 +19,11 @@
 25  |  [复杂链表的复制](https://blog.csdn.net/qq_34842671/article/details/103744123/#s25)  |  26  |  [二叉搜索树与双向链表](https://blog.csdn.net/qq_34842671/article/details/103744123/#s26) 
 27  |  [字符串的排列](https://blog.csdn.net/qq_34842671/article/details/103744123/#s27)  |  28  |  [数组中出现次数超过一半的数字](https://blog.csdn.net/qq_34842671/article/details/103744123/#s28) 
 29  |  [最小的K个数](https://blog.csdn.net/qq_34842671/article/details/103744123/#s29)  |  30  |  [连续子数组的最大和](https://blog.csdn.net/qq_34842671/article/details/103744123/#s30) 
+31  |  [从1到n整数中1出现的次数](https://blog.csdn.net/qq_34842671/article/details/103812113/#s31)   |  32  |  [把数组排成最小的数](https://blog.csdn.net/qq_34842671/article/details/103812113/#s32) 
+33  |  [丑数](https://blog.csdn.net/qq_34842671/article/details/103812113/#s33)   |  34  |  [第一个只出现一次的字符](https://blog.csdn.net/qq_34842671/article/details/103812113/#s34) 
+35  |  [数组中的逆序对](https://blog.csdn.net/qq_34842671/article/details/103812113/#s35)   |  36  |  [两个链表的第一个公共节点](https://blog.csdn.net/qq_34842671/article/details/103812113/#s36) 
+37  |  [数字在排序数组中出现的次数](https://blog.csdn.net/qq_34842671/article/details/103812113/#s37)  |  38  |  [二叉树的深度](https://blog.csdn.net/qq_34842671/article/details/103812113/#s38) 
+39  |  [平衡二叉树](https://blog.csdn.net/qq_34842671/article/details/103812113/#s39)  |  40  |  [数组中只出现一次的数字](https://blog.csdn.net/qq_34842671/article/details/103812113/#s40) 
 
 未完待续···
 
@@ -28,6 +33,8 @@
 [剑指offer——Java刷题总结【11-20】](https://blog.csdn.net/qq_34842671/article/details/103733427)
 
 [剑指offer——Java刷题总结【21-30】](https://blog.csdn.net/qq_34842671/article/details/103744123)
+
+[剑指offer——Java刷题总结【31-40】](https://blog.csdn.net/qq_34842671/article/details/103812113)
 
 ### Note
  - 算法详解汇总：[剑指offer题解汇总](https://blog.csdn.net/qq_34842671/article/details/103732870) 
