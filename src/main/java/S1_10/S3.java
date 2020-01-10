@@ -4,6 +4,7 @@ import PublicClass.ListNode;
 import PublicClass.Utils;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -21,18 +22,39 @@ public class S3 {
         l1.next = l2;
         l2.next = l3;
         l3.next = l4;
-        List<Integer> list = printListFromTailToHead(h);
+        List<Integer> list = printListFromTailToHead2(h);
         Utils.printArrayList(list);
+    }
+
+    static ArrayList<Integer> list = new ArrayList();
+    public static ArrayList<Integer> printListFromTailToHead2(ListNode listNode) {
+        if (listNode != null) {
+            printListFromTailToHead2(listNode.next);
+            list.add(listNode.val);
+        }
+        return list;
+    }
+
+    public static ArrayList<Integer> printListFromTailToHead1(ListNode listNode) {
+        ArrayList<Integer> list = new ArrayList<>();
+        ListNode tmp = listNode;
+        while(tmp != null){
+            list.add(0, tmp.val);
+            tmp = tmp.next;
+        }
+        return list;
     }
 
     public static ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         ListNode head = listNode;
         ArrayList<Integer> list = new ArrayList<>();
         while (head != null) {
-            list.add(0, head.val);
+            list.add(head.val);
             head = head.next;
         }
-//        Collections.reverse(list);
+        Collections.reverse(list);
         return list;
     }
+
+
 }
