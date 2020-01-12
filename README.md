@@ -24,6 +24,11 @@
 35  |  [数组中的逆序对](https://blog.csdn.net/qq_34842671/article/details/103812113/#s35)   |  36  |  [两个链表的第一个公共节点](https://blog.csdn.net/qq_34842671/article/details/103812113/#s36) 
 37  |  [数字在排序数组中出现的次数](https://blog.csdn.net/qq_34842671/article/details/103812113/#s37)  |  38  |  [二叉树的深度](https://blog.csdn.net/qq_34842671/article/details/103812113/#s38) 
 39  |  [平衡二叉树](https://blog.csdn.net/qq_34842671/article/details/103812113/#s39)  |  40  |  [数组中只出现一次的数字](https://blog.csdn.net/qq_34842671/article/details/103812113/#s40) 
+41  |  [和为S的连续正数序列](https://blog.csdn.net/qq_34842671/article/details/103922131/#s41)  |  42  |  [和为S的两个数](https://blog.csdn.net/qq_34842671/article/details/103922131/#s42) 
+43  |  [左旋转字符串](https://blog.csdn.net/qq_34842671/article/details/103922131/#s43)  |  44  |  [翻转单词顺序列](https://blog.csdn.net/qq_34842671/article/details/103922131/#s44) 
+45  |  [扑克牌顺子](https://blog.csdn.net/qq_34842671/article/details/103922131/#s45)  |  46  |  [圆圈中最后剩下的数](https://blog.csdn.net/qq_34842671/article/details/103922131/#s46) 
+47  |  [求1+2+3+...+n](https://blog.csdn.net/qq_34842671/article/details/103922131/#s47)  |  48  |  [不用加减乘除做加法](https://blog.csdn.net/qq_34842671/article/details/103922131/#s48) 
+49  |  [把字符串转换成整数](https://blog.csdn.net/qq_34842671/article/details/103922131/#s49)  |  50  |  [数组中重复的数字](https://blog.csdn.net/qq_34842671/article/details/103922131/#s50) 
 
 未完待续···
 
@@ -35,6 +40,8 @@
 [剑指offer——Java刷题总结【21-30】](https://blog.csdn.net/qq_34842671/article/details/103744123)
 
 [剑指offer——Java刷题总结【31-40】](https://blog.csdn.net/qq_34842671/article/details/103812113)
+
+[剑指offer——Java刷题总结【41-50】](https://blog.csdn.net/qq_34842671/article/details/103922131)
 
 ### Note
  - 算法详解汇总：[剑指offer题解汇总](https://blog.csdn.net/qq_34842671/article/details/103732870) 
