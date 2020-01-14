@@ -29,6 +29,11 @@
 45  |  [扑克牌顺子](https://blog.csdn.net/qq_34842671/article/details/103922131/#s45)  |  46  |  [圆圈中最后剩下的数](https://blog.csdn.net/qq_34842671/article/details/103922131/#s46) 
 47  |  [求1+2+3+...+n](https://blog.csdn.net/qq_34842671/article/details/103922131/#s47)  |  48  |  [不用加减乘除做加法](https://blog.csdn.net/qq_34842671/article/details/103922131/#s48) 
 49  |  [把字符串转换成整数](https://blog.csdn.net/qq_34842671/article/details/103922131/#s49)  |  50  |  [数组中重复的数字](https://blog.csdn.net/qq_34842671/article/details/103922131/#s50) 
+51  |  [构建乘积数组](https://blog.csdn.net/qq_34842671/article/details/103923154/#s51)  |  52  |  [正则表达式匹配](https://blog.csdn.net/qq_34842671/article/details/103923154/#s52) 
+53  |  [表示数值的字符串](https://blog.csdn.net/qq_34842671/article/details/103923154/#s53)  |  54  |  [字符流中第一个不重复的字符](https://blog.csdn.net/qq_34842671/article/details/103923154/#s54) 
+55  |  [链表中环的入口节点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s55)  |  56  |  [删除链表中重复的节点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s56) 
+57  |  [二叉树的下一个结点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s57)  |  58  |  [对称的二叉树](https://blog.csdn.net/qq_34842671/article/details/103923154/#s58) 
+59  |  [按之字形顺序打印二叉树](https://blog.csdn.net/qq_34842671/article/details/103923154/#s59)  |  60  |  [把二叉树打印成多行](https://blog.csdn.net/qq_34842671/article/details/103923154/#s60) 
 
 未完待续···
 
@@ -42,6 +47,8 @@
 [剑指offer——Java刷题总结【31-40】](https://blog.csdn.net/qq_34842671/article/details/103812113)
 
 [剑指offer——Java刷题总结【41-50】](https://blog.csdn.net/qq_34842671/article/details/103922131)
+
+[剑指offer——Java刷题总结【51-60】](https://blog.csdn.net/qq_34842671/article/details/103923154)
 
 ### Note
  - 算法详解汇总：[剑指offer题解汇总](https://blog.csdn.net/qq_34842671/article/details/103732870) 
