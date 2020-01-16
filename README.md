@@ -34,8 +34,12 @@
 55  |  [链表中环的入口节点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s55)  |  56  |  [删除链表中重复的节点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s56) 
 57  |  [二叉树的下一个结点](https://blog.csdn.net/qq_34842671/article/details/103923154/#s57)  |  58  |  [对称的二叉树](https://blog.csdn.net/qq_34842671/article/details/103923154/#s58) 
 59  |  [按之字形顺序打印二叉树](https://blog.csdn.net/qq_34842671/article/details/103923154/#s59)  |  60  |  [把二叉树打印成多行](https://blog.csdn.net/qq_34842671/article/details/103923154/#s60) 
+61  |  [序列化二叉树](https://blog.csdn.net/qq_34842671/article/details/103923405/#s61)  |  62  |  [二叉搜索树的第k个节点](https://blog.csdn.net/qq_34842671/article/details/103923405/#s62) 
+63  |  [数据流中的中位数](https://blog.csdn.net/qq_34842671/article/details/103923405/#s63)  |  64  |  [滑动窗口的最大值](https://blog.csdn.net/qq_34842671/article/details/103923405/#s64) 
+65  |  [矩阵中的路径](https://blog.csdn.net/qq_34842671/article/details/103923405/#s65)  |  66  |  [机器人的运动范围](https://blog.csdn.net/qq_34842671/article/details/103923405/#s66) 
+67  |  [剪绳子](https://blog.csdn.net/qq_34842671/article/details/103923405/#s67) 
 
-未完待续···
+**完结撒花！**
 
 ### 汇总
 [剑指offer——Java刷题总结【1-10】](https://blog.csdn.net/qq_34842671/article/details/103732228)
@@ -49,6 +53,8 @@
 [剑指offer——Java刷题总结【41-50】](https://blog.csdn.net/qq_34842671/article/details/103922131)
 
 [剑指offer——Java刷题总结【51-60】](https://blog.csdn.net/qq_34842671/article/details/103923154)
+
+[剑指offer——Java刷题总结【61-67】](https://blog.csdn.net/qq_34842671/article/details/103923405)
 
 ### Note
  - 算法详解汇总：[剑指offer题解汇总](https://blog.csdn.net/qq_34842671/article/details/103732870) 
