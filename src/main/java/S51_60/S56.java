@@ -32,6 +32,25 @@ public class S56 {
 
     public static ListNode deleteDuplication(ListNode pHead) {
         if (pHead == null) return pHead;
+        ListNode dummy = new ListNode(-1);
+        dummy.next = pHead;
+        ListNode pre = dummy, cur = pHead;
+        while (cur != null) {
+            while (cur.next != null && cur.val == cur.next.val) {
+                cur = cur.next;
+            }
+            if (pre.next == cur) {
+                pre = cur;
+            } else {
+                pre.next = cur.next;
+            }
+            cur = cur.next;
+        }
+        return dummy.next;
+    }
+
+    public static ListNode deleteDuplication1(ListNode pHead) {
+        if (pHead == null) return pHead;
         ListNode h = new ListNode(-1);
         ListNode pre = h;
         pre.next = pHead;
