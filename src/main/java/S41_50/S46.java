@@ -9,19 +9,19 @@ import java.util.List;
  */
 public class S46 {
     public static void main(String[] args) {
-        System.out.println(LastRemaining_Solution(6, 3));
+        System.out.println(LastRemaining_Solution(7, 3));
     }
 
-    public static int LastRemaining_Solution1(int n, int m) {
+    public static int LastRemaining_Solution(int n, int m) {
         if (n < 1 || m < 1) return -1;
         int ans = 0;
         for (int i = 2; i <= n; i++) {
-            ans = (ans + m) % n;
+            ans = (ans + m) % i;
         }
         return ans;
     }
 
-    public static int LastRemaining_Solution(int n, int m) {
+    public static int LastRemaining_Solution1(int n, int m) {
         if (n < 1 || m < 1) return -1;
         List<Integer> list = new ArrayList<>(n);
         for (int i = 0; i < n; i++) {
