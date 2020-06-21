@@ -32,4 +32,32 @@ public class S28 {
         }
         return 0;
     }
+
+    public static int MoreThanHalfNum_Solution1(int[] array) {
+        if (array == null || array.length == 0) {
+            return 0;
+        }
+        int preValue = 0;
+        int count = 0;
+        for (int i = 0; i < array.length; i++) {
+            if (count == 0) {
+                preValue = array[i];
+                count = 1;
+            } else {
+                if (array[i] == preValue) {
+                    count++;
+                } else {
+                    count--;
+                }
+            }
+        }
+
+        int cnt = 0;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] == preValue) {
+                cnt++;
+            }
+        }
+        return cnt > array.length / 2 ? preValue : 0;
+    }
 }

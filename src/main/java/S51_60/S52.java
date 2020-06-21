@@ -6,9 +6,12 @@ package S51_60;
  */
 public class S52 {
     public static void main(String[] args) {
-        String s1 = "aaa";
-        String s2 = "ab*ac*a";
+//        String s1 = "aaa";
+//        String s2 = "ab*ac*a";
+        String s1 = "";
+        String s2 = "";
         System.out.println(match(s1.toCharArray(), s2.toCharArray()));
+        System.out.println(match(null, null));
     }
 
     public static boolean match1(char[] str, char[] pattern) {
